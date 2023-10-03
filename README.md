@@ -33,7 +33,7 @@ Visit me : [Telegram-Group](https://t,me/OPIranCluB)
 
 <details>
  
-<summary><p><b> 👉 Click To View <b>⚡️ 🎁 Donate to give away great projects 🎁</b></b></p></summary>
+<summary><p><b> 👉 Click To View <b></b></b></p></summary>
  
  ✅ USDT (ERC20)
 
