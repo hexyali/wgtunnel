@@ -16,7 +16,7 @@ Special Thanks to [AZUMI](https://github.com/Azumi67) ❤️
  - root access
    
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/opiran-club/wgtunnel/main/udp2raw.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/opiran-club/hexyali/main/udp2raw.sh --ipv4)
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------
